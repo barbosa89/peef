@@ -1,0 +1,31 @@
+{
+  "name": "peef",
+  "version": "1.0.0",
+  "description": "PEEF documentation",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbosa89/peef.git"
+  },
+  "keywords": [
+    "PEEF",
+    "Energy"
+  ],
+  "author": "GIII",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barbosa89/peef/issues"
+  },
+  "homepage": "https://github.com/barbosa89/peef#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.2"
+  }
+}
