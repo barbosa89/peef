@@ -1,7 +1,7 @@
 module.exports = {
 	title: 'PEEF',
 	base: '/peef/',
-	description: "Proyecto de energia eólica y fotovoltaíca.",
+	description: "Proyecto de energia eólica y fotovoltaica.",
 	dest: './docs',
 	themeConfig: {
 		nav: [
@@ -18,7 +18,8 @@ module.exports = {
 	    sidebar: {
 	    	'/guide/': [
 	    		'',
-	    		'test'
+				'test',
+				'informes'
 	    	],
 	    }
 	},	

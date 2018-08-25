@@ -1,6 +1,6 @@
 ---
 home: true
-actionText: Get Started →
+actionText: Incio Rápido
 actionLink: /guide/
 features:
 - title: Simplicity First
