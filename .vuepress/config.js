@@ -8,10 +8,11 @@ module.exports = {
 			  { text: "Inicio", link: "/" },
 			  { text: "Documentación", link: "/guide/" },
 			  {
-					text: 'Languages',
+					text: 'Más Información',
 					items: [
-						{ text: 'Chinese', link: '/language/chinese' },
-						{ text: 'Japanese', link: '/language/japanese' }
+						{ text: '¿Que es PEEF?', link: '/language/chinese' },
+						{ text: '¿Que esperar de PEEF?', link: '/language/japanese' },
+						{ text: '¿Cómo funciona PEEF?', link: '/language/japanese' }
 					]
 			  }
 		],
